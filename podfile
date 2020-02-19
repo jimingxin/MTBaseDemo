@@ -11,6 +11,7 @@ target 'MTBaseDemo' do
   pod 'Realm'
   pod 'JSONModel'
   pod 'Masonry'
+  pod 'IGListDiffKit'
   pod 'IGListKit'
   pod 'MJRefresh'
   pod 'MBProgressHUD'
